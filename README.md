@@ -1,3 +1,5 @@
-The instructions of repository\n
-pythontest1\n
+The instructions of repository
+
+pythontest1
+
 Just for learning python
